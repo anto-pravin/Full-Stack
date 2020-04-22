@@ -1,0 +1,41 @@
+body{
+  background: #141824;
+  color: white;
+  text-align: center;
+  border: 40px solid #6cf0e3;
+  margin: 0px;
+  border-top: 0px;
+}
+#h1-1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 30px;
+  border-top: 20px;
+}
+p{
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-top: 5%;
+  font-family: 'Comic Neue', cursive;
+  font-size: 17px;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+label{
+
+  font-family: 'Comic Neue', cursive;
+  font-size: 20px;
+}
+input{
+  height: 30px;
+  width: 300px;
+}
+#button{
+  font-size: 20px;
+  margin-top: 10px;
+  border-radius: 25px;
+  width: 150px;
+  height: 75px;
+  background: orange;
+  margin-bottom: 10px;
+}
